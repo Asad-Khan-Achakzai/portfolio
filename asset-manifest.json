@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8189922c.css",
-    "main.js": "/portfolio/static/js/main.95ec084c.js",
+    "main.js": "/portfolio/static/js/main.7404a980.js",
+    "static/media/CV_Asad_khan.pdf": "/portfolio/static/media/CV_Asad_khan.91977398c8d503918cfc.pdf",
+    "static/media/myImage.jpg": "/portfolio/static/media/myImage.506f3b960d722a1c9d4a.jpg",
     "index.html": "/portfolio/index.html",
     "main.8189922c.css.map": "/portfolio/static/css/main.8189922c.css.map",
-    "main.95ec084c.js.map": "/portfolio/static/js/main.95ec084c.js.map"
+    "main.7404a980.js.map": "/portfolio/static/js/main.7404a980.js.map"
   },
   "entrypoints": [
     "static/css/main.8189922c.css",
-    "static/js/main.95ec084c.js"
+    "static/js/main.7404a980.js"
   ]
 }
